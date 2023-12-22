@@ -1,4 +1,4 @@
-# ISO2-2022-A04-Testing-P3
+# ISO2-2022-A04-Testing-P2
 Second testing exercise.
 
 ## Statement
